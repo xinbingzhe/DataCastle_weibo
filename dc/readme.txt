@@ -1,0 +1,4 @@
+create_features.py:生成特征
+count_trainRepost_new.py:统计trainRepost文件中 微博的转发深度与转发量，时间下面第一行是深度，第二行是转发量
+count_relationship:统计用户的粉丝
+forest_predict2.py:预测模型 输出预测结果
